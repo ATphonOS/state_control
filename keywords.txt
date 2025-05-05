@@ -1,0 +1,33 @@
+==================================
+CLASS
+==================================
+StateControl	KEYWORD1
+
+==================================
+FUNCTIONS
+==================================
+setState	KEYWORD2
+toggleState	KEYWORD2
+resetArray	KEYWORD2
+setAllStates	KEYWORD2
+setDefaultIndex	KEYWORD2
+getState	KEYWORD2
+getFirstTrueIndex	KEYWORD2
+getAllTrueIndices	KEYWORD2
+getIndex	KEYWORD2
+serializeStatesSize	KEYWORD2
+serializeStates	KEYWORD2
+findState	KEYWORD2
+setRangeStates	KEYWORD2
+isAssignedIndex	KEYWORD2
+countTrueStates	KEYWORD2
+invertStates	KEYWORD2
+validateSingleState	KEYWORD2
+isValidIndex	KEYWORD2
+copyStatesFrom	KEYWORD2
+saveState	KEYWORD2
+restoreSavedState	KEYWORD2
+setStateByEnum	KEYWORD2
+Option	KEYWORD2
+
+
