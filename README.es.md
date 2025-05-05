@@ -1,6 +1,6 @@
 Esta documentación también está disponible en **[Inglés](./README.md)**.
 
-# ⚙️➡️📜 StateControl
+# 🔁 StateControl
 ## Resumen
 `StateControl` es una biblioteca C++ diseñada para gestionar arreglos de estados booleanos en microcontroladores compatibles con Arduino, proporcionando una lógica similar a una máquina de estados. Permite configurar, alternar, consultar, serializar y restaurar estados, con soporte para estados exclusivos o compartidos. Para aplicaciones como navegación de menús, control de interfaces de usuario, o gestión de estados de módulos.
 
