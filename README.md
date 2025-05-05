@@ -1,6 +1,6 @@
 This documentation is also available in **[Spanish](./README.es.md)**.
 
-# ⚙️➡️📜 StateControl
+# 🔁➡️📜 StateControl
 ## Summary
 `StateControl` is a C++ library designed to manage arrays of boolean states on Arduino-compatible microcontrollers, providing logic akin to a finite state machine. It enables setting, toggling, querying, serialising, and restoring states, with support for exclusive or shared states. Ideal for applications such as menu navigation, user interface control, or module state management (e.g., GSM), it optimises memory usage and offers robust methods for state manipulation.
 
