@@ -1,6 +1,5 @@
 
 #include "state_control.h"
-#include "state_control_enums.h"
 
 // Create StateControl instances for managing UI views and GSM states
 StateControl viewControl(OptionsViewLength); // For OptionsView (UI views)
